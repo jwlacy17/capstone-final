@@ -50,7 +50,6 @@
 
 
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="w3-image" src="img/pwcLogo.svg" width="1000" height="600" style="vertical-align:middle;margin:0px 50px">
   <div class="w3-display-middle w3-margin-top w3-center">
   </div>
 </header>
@@ -60,6 +59,10 @@
   <h1 class="display-5"> Blockchain: The New Technology of Trust</h1>
 <p> Here you will find more about Blockchain, a framework to help guide you through the process,
   change management with Blockchain, and the latest news! </p>
+</div>
+
+<div style="text-align:center">
+<img class="w3-image" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Why-Blockchain-Matters.jpg" width="500" height="300" style="text-align:center">
 </div>
   </body>
 </html>

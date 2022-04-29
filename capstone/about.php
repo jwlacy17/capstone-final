@@ -62,15 +62,14 @@
 </div>
 
   <hr>
-<div>
+<!-- <div>
 <img class="w3-image" src="img/about-blockchain.jpg" width="800" height="1300" style="display:block;text-align:center;margin: 0 auto;">
-</div>
+</div> -->
 
+<div style="text-align:center">
+ <a href='https://101blockchains.com/blockchain-infographics/'> <img src='https://101blockchains.com/wp-content/uploads/2019/12/HOW-DOES-BLOCKCHAIN-WORK.png'width="800" height="800" align="center"/> </a>
+</div>
 </br>
-
-<div>
-<p class="link"> Click <a href="https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html"> here </a> for more information regarding blockchain.</p>
-</div>
 
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
   </body>
